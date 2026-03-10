@@ -1,0 +1,7 @@
+# OpenBrain local data
+.openbrain/
+memory-db/
+hardcopy/
+logs/
+.env
+*.log
